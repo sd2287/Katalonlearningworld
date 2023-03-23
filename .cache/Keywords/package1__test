@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "BF17C73877B7C680E4108335178EE09B",
+  "keywordClasses": [
+    {
+      "name": "package1.test",
+      "keywordMethods": [
+        {
+          "name": "keyword1",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "keyword2",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
